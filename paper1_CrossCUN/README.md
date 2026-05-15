@@ -76,6 +76,8 @@ If the above format is not found, the script will try to use the original `helpe
 
 ## 4. How to Run
 
+Please place the helper.py file in the same directory as CrossCUN.py.
+
 Run the main script:
 
 ```bash
